@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBwFbj/KvsDgmpURQiId7/181cfm6BeXqkmo5ps8cTB/ geernikita56@gmail.com
